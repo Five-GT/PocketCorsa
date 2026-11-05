@@ -155,6 +155,7 @@ Assetto Corsaのマルチサーバー（acServer / AssettoServer）に参加し�
 - ※本アプリの物理挙動はアセットコルサ公式の挙動とは異なり、モバイル向けに最適化された独自挙動となります。
 - ※本プロジェクトは Kunos Simulazioni、Digital Bros、505 Games とは一切関係のない個人による非公式プロジェクトです。
 - ※各MODはAssetto Corsa向けに制作されたものであり、本アプリおよび各MOD製作者様は相互に無関係です。MODに関するお問い合わせはご遠慮ください。
+- ※本アプリの使用（または使用不能）によって生じたいかなる損害・不利益・トラブル等に関しても、製作者および関係者は一切の責任を負いません。すべて自己責任にてご利用ください。
 
 ---
 
@@ -311,6 +312,7 @@ Record, review, and preserve your driving sessions.
 - ※ Vehicle physics in this application are customized and optimized for mobile devices, and differ from official Assetto Corsa physics.
 - ※ This is an unofficial, non-profit community project created by individuals and is not affiliated with, endorsed by, or associated with Kunos Simulazioni, Digital Bros, or 505 Games.
 - ※ All MODs are created for Assetto Corsa by third-party creators. The authors of this app and individual MOD creators have no affiliation with each other. Please do not contact MOD authors regarding this application.
+- ※ The developers and contributors assume no liability or responsibility for any damages, losses, or troubles arising from the use (or inability to use) of this application. Use at your own risk.
 
 ---
 
