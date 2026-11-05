@@ -20,7 +20,14 @@ Assetto Corsa（アセットコルサ）のMODをスマホ（Android）で走ら
 
 ---
 
-## 1. 初回セットアップ（権限許可・フォルダ作成・パス指定）
+## 1. アプリのダウンロード（準備中）
+
+現在、一般公開に向けて準備中です（Coming Soon）。  
+※公開準備が整い次第、[Releases](https://github.com/Five-GT/PocketCorsa/releases) にてAPKファイルの配布を開始予定です。
+
+---
+
+## 2. 初回セットアップ（権限許可・フォルダ作成・パス指定）
 
 ### ステップ①：ストレージアクセスの許可
 1. アプリを初回起動すると、自動的にAndroidの権限設定画面（または許可ダイアログ）が表示されます。
@@ -45,7 +52,7 @@ Assetto Corsa（アセットコルサ）のMODをスマホ（Android）で走ら
 
 ---
 
-## 2. オプション設定項目（SETTINGS）
+## 3. オプション設定項目（SETTINGS）
 
 トップメニューの **「SETTINGS」** では、パス指定のほか、端末に合わせた快適なプレイ環境を設定できます。
 
@@ -64,7 +71,7 @@ Assetto Corsa（アセットコルサ）のMODをスマホ（Android）で走ら
 
 ---
 
-## 3. 車両選択・スキン・走行チューニング
+## 4. 車両選択・スキン・走行チューニング
 
 1. メニュー画面の **「CAR」** をタップして走りたい車を選択します。
 2. **スキン変更**: カラーリングやバイナルの切り替えが可能です。
@@ -80,14 +87,14 @@ Assetto Corsa（アセットコルサ）のMODをスマホ（Android）で走ら
 
 ---
 
-## 4. コース・レイアウトの選択
+## 5. コース・レイアウトの選択
 1. メニュー画面の **「TRACK」** をタップします。
 2. 配置したコースMODの一覧から走りたいコースを選択します。
 3. 複数レイアウト（ドリフト用、逆走、ショートカット等）が存在するコースは、レイアウトの選択も行えます。
 
 ---
 
-## 5. 車の走らせ方・共通操作
+## 6. 車の走らせ方・共通操作
 
 シングル・オンライン共通の操作方法です。
 
@@ -110,13 +117,13 @@ Assetto Corsa（アセットコルサ）のMODをスマホ（Android）で走ら
 
 ---
 
-## 6. シングルプレイ（フリー走行）
+## 7. シングルプレイ（フリー走行）
 - 車両とコースを選んで **「DRIVE」** を押すと、即座にコースインします。
 - 単独走行で思う存分ドリフトの練習やグリップ走行、コースの習熟を楽しめます。
 
 ---
 
-## 7. オンラインプレイ（マルチプレイ）
+## 8. オンラインプレイ（マルチプレイ）
 Assetto Corsaのマルチサーバー（acServer / AssettoServer）に参加して他プレイヤーと一緒に走行できます。
 
 1. **事前準備**: サーバーで指定されているコース・車両と同じフォルダ名のMODを導入しておきます。
@@ -136,7 +143,7 @@ Assetto Corsaのマルチサーバー（acServer / AssettoServer）に参加し�
 
 ---
 
-## 8. リプレイ機能（Replay）
+## 9. リプレイ機能（Replay）
 走行したセッションの記録・鑑賞・保存ができる専用機能です。
 
 - **リプレイの再生**:
@@ -148,7 +155,7 @@ Assetto Corsaのマルチサーバー（acServer / AssettoServer）に参加し�
 
 ---
 
-## 9. 注意事項 / 免責事項
+## 10. 注意事項 / 免責事項
 
 - ※本アプリ本体には著作権を有する車両・コース等の商用ゲームデータは一切含まれておりません。
 - ※本アプリは、ユーザーが用意したMODファイルを端末内から読み込んで動作します。
@@ -177,7 +184,14 @@ This is a basic user guide for running Assetto Corsa MODs natively on Android mo
 
 ---
 
-## 1. Initial Setup (Permissions, Folder Creation, Path Config)
+## 1. Download (Coming Soon)
+
+Currently preparing for public release (Coming Soon).  
+※ The APK distribution will be available on the GitHub [Releases](https://github.com/Five-GT/PocketCorsa/releases) page once ready.
+
+---
+
+## 2. Initial Setup (Permissions, Folder Creation, Path Config)
 
 ### Step 1: Grant Storage Permission
 1. When you launch the app for the first time, Android's permission dialog/settings screen will automatically appear.
@@ -202,7 +216,7 @@ Using a file manager app on your phone (such as Files) or via USB connection to 
 
 ---
 
-## 2. Options & Settings (SETTINGS)
+## 3. Options & Settings (SETTINGS)
 
 In **"SETTINGS"** on the main menu, you can configure paths as well as performance and visual options:
 
@@ -221,7 +235,7 @@ In **"SETTINGS"** on the main menu, you can configure paths as well as performan
 
 ---
 
-## 3. Car Selection, Skins & Driving Tuning
+## 4. Car Selection, Skins & Driving Tuning
 
 1. Tap **"CAR"** on the main menu to choose your vehicle.
 2. **Skin Selection**: Switch liveries, colors, and visual variants.
@@ -237,14 +251,14 @@ In **"SETTINGS"** on the main menu, you can configure paths as well as performan
 
 ---
 
-## 4. Track & Layout Selection
+## 5. Track & Layout Selection
 1. Tap **"TRACK"** on the main menu.
 2. Choose a track from your installed MOD collection.
 3. If a track contains multiple layouts (drift layout, reverse, short circuit, etc.), you can select your preferred layout.
 
 ---
 
-## 5. Driving Controls & Universal Operations
+## 6. Driving Controls & Universal Operations
 
 These controls apply to both Single Player and Online Multiplayer:
 
@@ -267,13 +281,13 @@ These controls apply to both Single Player and Online Multiplayer:
 
 ---
 
-## 6. Single Player (Free Drive)
+## 7. Single Player (Free Drive)
 - Select your car and track, then tap **"DRIVE"** to enter the track immediately.
 - Practice drifting, test grip lines, or learn tracks freely in solo mode.
 
 ---
 
-## 7. Online Multiplayer
+## 8. Online Multiplayer
 Connect to unofficial Assetto Corsa servers (**acServer / AssettoServer**) and drive with other players.
 
 1. **Preparation**: Install the exact car and track MODs specified by the server with identical folder names.
@@ -293,7 +307,7 @@ Connect to unofficial Assetto Corsa servers (**acServer / AssettoServer**) and d
 
 ---
 
-## 8. Replay System
+## 9. Replay System
 Record, review, and preserve your driving sessions.
 
 - **Playback**:  
@@ -305,7 +319,7 @@ Record, review, and preserve your driving sessions.
 
 ---
 
-## 9. Notice & Disclaimer
+## 10. Notice & Disclaimer
 
 - ※ This application does not contain any copyrighted car models, track meshes, textures, sounds, or commercial game data.
 - ※ This application dynamically loads and runs user-provided MOD files located on device storage.
