@@ -100,11 +100,11 @@ Assetto Corsa（アセットコルサ）のMODをスマホ（Android）で走ら
   - **下へスライド**: バック（リバースギア）
 - **シフト操作**:
   - **AT（オートマ）** / **MT（マニュアル）** の切り替えに対応。
-- **灯火類・ホーン（画面上部のアイコン）**:
+- **灯火類・ホーン**:
   - **LIGHTS**: ヘッドライト・テールランプの点灯
   - **< TURN / TURN >**: 左右ウインカー
   - **HAZARD**: ハザードランプ点滅
-  - **HORN**: ハンドル中央をタップ（または長押し）でクラクション吹鳴
+  - **HORN**: 専用のホーンボタンを押している間クラクション吹鳴
 - **カメラ視点切り替え**:
   - 後方視点（チェイス）、ドライバー視点（頭部Gフォース連動のNeckFX風コックピット）、車外自由視点などを切り替え可能。
 
@@ -253,11 +253,11 @@ These controls apply to both Single Player and Online Multiplayer:
   - **Slide Down**: Reverse gear
 - **Transmission**:  
   Toggle between **AT (Automatic)** and **MT (Manual)**.
-- **Lights & Horn (Top Screen Icons)**:
+- **Lights & Horn**:
   - **LIGHTS**: Turn headlights and taillights ON / OFF
   - **< TURN / TURN >**: Left / Right turn indicators
   - **HAZARD**: Hazard warning flashers
-  - **HORN**: Tap or hold the center of the steering wheel to honk
+  - **HORN**: Press and hold the dedicated HORN button to sound the horn
 - **Camera View**:  
   Switch between Chase Cam, Driver Cockpit View (NeckFX-style dynamic G-force head movement), and Free Orbit Camera.
 
