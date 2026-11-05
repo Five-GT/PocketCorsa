@@ -70,7 +70,7 @@ Assetto Corsa（アセットコルサ）のMODをスマホ（Android）で走ら
 2. **スキン変更**: カラーリングやバイナルの切り替えが可能です。
 3. **TUNING（走行チューニング）**:
    お好みの乗り味に合わせて車両の物理挙動を細かく調整できます。
-   - **ACCEL MODEL**: 実車に忠実な物理計算「REAL」と、扱いやすい「ARCADE」を切り替え
+   - **ACCEL MODEL**: MODに近い動きを行う「REAL」と、爽快に走れる「ARCADE」を切り替え
    - **POWER**: 加速力・エンジン出力の倍率（30%〜400%）
    - **AIR DRAG**: 最高速や伸びに影響する空気抵抗の強さ（25%〜200%）
    - **LATERAL GRIP**: ドリフトの滑りやすさを変える横グリップ倍率（50%〜150%）
@@ -223,7 +223,7 @@ In **"SETTINGS"** on the main menu, you can configure paths as well as performan
 2. **Skin Selection**: Switch liveries, colors, and visual variants.
 3. **TUNING (Physics & Handling Adjustments)**:  
    Fine-tune your vehicle's physics to match your driving style:
-   - **ACCEL MODEL**: Toggle between true-to-life physics **"REAL"** and accessible **"ARCADE"**
+   - **ACCEL MODEL**: Toggle between **"REAL"** (closely reflects the original MOD characteristics) and **"ARCADE"** (exhilarating and accessible handling)
    - **POWER**: Scale acceleration and engine output (30% to 400%)
    - **AIR DRAG**: Adjust aerodynamic drag affecting top speed and acceleration (25% to 200%)
    - **LATERAL GRIP**: Tune tyre side-grip and drift slide characteristics (50% to 150%)
