@@ -1,11 +1,11 @@
-# Pocket Corsa
+# POCKET CORSA
 
 [日本語](#japanese) | [English](#english)
 
 ---
 
 <a name="japanese"></a>
-# Pocket Corsa クイックスタートガイド (日本語)
+# POCKET CORSA クイックスタートガイド (日本語)
 
 Assetto Corsa（アセットコルサ）のMODをスマホ（Android）で走らせるための基本操作ガイドです。
 
@@ -158,9 +158,9 @@ Copyright 2026 ファイヴ
 ---
 
 <a name="english"></a>
-# Pocket Corsa Quick Start Guide (English)
+# POCKET CORSA Quick Start Guide (English)
 
-This is a basic user guide for running Assetto Corsa MODs natively on Android mobile devices with **Pocket Corsa**.
+This is a basic user guide for running Assetto Corsa MODs natively on Android mobile devices with **POCKET CORSA**.
 
 > **⚠️ Notice (Zero Bundled MOD Content)**  
 > This application does not include any car or track data. Please supply and place your legally acquired Assetto Corsa MODs on your device storage before playing.
@@ -271,7 +271,7 @@ Connect to unofficial Assetto Corsa servers (**acServer / AssettoServer**) and d
 3. Choose an available slot/skin and tap **"JOIN"** to connect.
 
 > **🔗 One-Tap Join via Deep Link URLs**  
-> Simply tapping an Assetto Corsa server join link (e.g. `acmanager://...` or `https://acstuff.ru/s/...`) shared in Discord or websites will launch Pocket Corsa and fill in the server details automatically.
+> Simply tapping an Assetto Corsa server join link (e.g. `acmanager://...` or `https://acstuff.ru/s/...`) shared in Discord or websites will launch POCKET CORSA and fill in the server details automatically.
 
 4. **Online Features**:
    - **CHAT**: Send and receive text messages (supports `/` server commands)
