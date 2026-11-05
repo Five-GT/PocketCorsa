@@ -1,6 +1,12 @@
+<div align="center">
+
+<img src="Docs/Images/pocket_corsa_logo_transparent.png" alt="POCKET CORSA Logo" width="480"/>
+
 # POCKET CORSA
 
 [日本語](#japanese) | [English](#english)
+
+</div>
 
 ---
 
