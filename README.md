@@ -131,6 +131,9 @@ Assetto Corsaのマルチサーバー（acServer / AssettoServer）に参加し�
    - **VIEW**: 他プレイヤーの走行をリアルタイム観戦
    - **TIMES**: 順位表・リアルタイムラップタイムの確認
 
+> **⚠️ 注意事項**  
+> オンラインサーバーに接続する際は、必ず各サーバーのルールを守ってください。
+
 ---
 
 ## 8. リプレイ機能（Replay）
@@ -283,6 +286,9 @@ Connect to unofficial Assetto Corsa servers (**acServer / AssettoServer**) and d
    - **CHAT**: Send and receive text messages (supports `/` server commands)
    - **VIEW**: Spectate other players in real-time
    - **TIMES**: Live leaderboard and lap timing
+
+> **⚠️ Notice**  
+> When joining an online server, please always strictly respect and follow the rules established by each server.
 
 ---
 
