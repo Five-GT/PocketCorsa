@@ -27,7 +27,25 @@ Assetto Corsa（アセットコルサ）のMODをスマホ（Android）で走ら
 
 ---
 
-## 2. 初回セットアップ（権限許可・フォルダ作成・パス指定）
+## 2. 動作環境（システム要件）
+
+アセットコルサ用MODはPC向けの高精細データであるため、快適にプレイするには一定以上の端末スペックが必要です。
+
+| 項目 | 必要動作環境（低画質設定で動作） | 推奨動作環境（標準〜快適） |
+| :--- | :--- | :--- |
+| **OS** | Android 10.0 以上 (64-bit必須) | Android 12.0 以上 |
+| **SoC (CPU/GPU)** | **Antutu 60万〜80万点クラス**<br>(Snapdragon 7s Gen 2 / 778G 等) | **Antutu 100万〜150万点以上**<br>(Dimensity 7400-Ultra / Snapdragon 8 Gen 1〜Gen 2 等) |
+| **RAM (メモリ)** | **6GB 以上** | **8GB 〜 12GB 以上** |
+| **空き容量** | 5GB 以上 (MOD保存用) | 10GB 以上 |
+
+> **⚠️ スペックおよび動作環境に関する注意事項**  
+> - PC用MODはモバイル向けに最適化されていないため、**Antutu 100万点級の端末であっても、ポリゴン数やテクスチャの多い車種・コースでは動作が非常に重くなる場合があります**。  
+> - ご使用の端末環境（常駐アプリ、バックグラウンドタスク、メモリ空き容量、発熱状況など）により、**システム要件を満たしている場合であっても正常に動作しない、または強制終了する場合があります**。  
+> - 動作が重い・カクつく場合は、**SETTINGS（設定）** より `MOD TEXTURE QUALITY`（テクスチャ品質）や `SMALL OBJECT DRAW DISTANCE`（小物描画距離）を下げて調整してください。
+
+---
+
+## 3. 初回セットアップ（権限許可・フォルダ作成・パス指定）
 
 ### ステップ①：ストレージアクセスの許可
 1. アプリを初回起動すると、自動的にAndroidの権限設定画面（または許可ダイアログ）が表示されます。
@@ -52,7 +70,7 @@ Assetto Corsa（アセットコルサ）のMODをスマホ（Android）で走ら
 
 ---
 
-## 3. オプション設定項目（SETTINGS）
+## 4. オプション設定項目（SETTINGS）
 
 トップメニューの **「SETTINGS」** では、パス指定のほか、端末に合わせた快適なプレイ環境を設定できます。
 
@@ -71,7 +89,7 @@ Assetto Corsa（アセットコルサ）のMODをスマホ（Android）で走ら
 
 ---
 
-## 4. 車両選択・スキン・走行チューニング
+## 5. 車両選択・スキン・走行チューニング
 
 1. メニュー画面の **「CAR」** をタップして走りたい車を選択します。
 2. **スキン変更**: カラーリングやバイナルの切り替えが可能です。
@@ -87,14 +105,14 @@ Assetto Corsa（アセットコルサ）のMODをスマホ（Android）で走ら
 
 ---
 
-## 5. コース・レイアウトの選択
+## 6. コース・レイアウトの選択
 1. メニュー画面の **「TRACK」** をタップします。
 2. 配置したコースMODの一覧から走りたいコースを選択します。
 3. 複数レイアウト（ドリフト用、逆走、ショートカット等）が存在するコースは、レイアウトの選択も行えます。
 
 ---
 
-## 6. 車の走らせ方・共通操作
+## 7. 車の走らせ方・共通操作
 
 シングル・オンライン共通の操作方法です。
 
@@ -117,13 +135,13 @@ Assetto Corsa（アセットコルサ）のMODをスマホ（Android）で走ら
 
 ---
 
-## 7. シングルプレイ（フリー走行）
+## 8. シングルプレイ（フリー走行）
 - 車両とコースを選んで **「DRIVE」** を押すと、即座にコースインします。
 - 単独走行で思う存分ドリフトの練習やグリップ走行、コースの習熟を楽しめます。
 
 ---
 
-## 8. オンラインプレイ（マルチプレイ）
+## 9. オンラインプレイ（マルチプレイ）
 Assetto Corsaのマルチサーバー（acServer / AssettoServer）に参加して他プレイヤーと一緒に走行できます。
 
 1. **事前準備**: サーバーで指定されているコース・車両と同じフォルダ名のMODを導入しておきます。
@@ -143,7 +161,7 @@ Assetto Corsaのマルチサーバー（acServer / AssettoServer）に参加し�
 
 ---
 
-## 9. リプレイ機能（Replay）
+## 10. リプレイ機能（Replay）
 走行したセッションの記録・鑑賞・保存ができる専用機能です。
 
 - **リプレイの再生**:
@@ -155,7 +173,7 @@ Assetto Corsaのマルチサーバー（acServer / AssettoServer）に参加し�
 
 ---
 
-## 10. 注意事項 / 免責事項
+## 11. 注意事項 / 免責事項
 
 - ※本アプリ本体には著作権を有する車両・コース等の商用ゲームデータは一切含まれておりません。
 - ※本アプリは、ユーザーが用意したMODファイルを端末内から読み込んで動作します。
@@ -191,7 +209,25 @@ Currently preparing for public release (Coming Soon).
 
 ---
 
-## 2. Initial Setup (Permissions, Folder Creation, Path Config)
+## 2. System Requirements
+
+Since Assetto Corsa MODs are high-fidelity assets originally created for PC, a capable mobile device is required to run them smoothly.
+
+| Component | Minimum Requirements (Low Settings) | Recommended Requirements (Standard ~ High) |
+| :--- | :--- | :--- |
+| **OS** | Android 10.0 or later (64-bit required) | Android 12.0 or later |
+| **SoC (CPU/GPU)** | **Antutu 600k – 800k class**<br>(Snapdragon 7s Gen 2 / 778G or equivalent) | **Antutu 1.0M – 1.5M+ class**<br>(Dimensity 7400-Ultra / Snapdragon 8 Gen 1 ~ Gen 2 or higher) |
+| **RAM (Memory)** | **6GB or more** | **8GB – 12GB or more** |
+| **Storage** | 5GB+ free space (for MOD files) | 10GB+ free space |
+
+> **⚠️ Important Notice on Performance & Device Environment**  
+> - Because PC-grade MODs are not optimized for mobile hardware, **even on devices with 1M+ Antutu scores, high-poly cars or large complex tracks may cause significant performance drops**.  
+> - Depending on your individual device environment (background apps, memory availability, thermal throttling, etc.), **the app may not operate smoothly or may close unexpectedly even if system requirements are met**.  
+> - If you experience stuttering or frame drops, adjust `MOD TEXTURE QUALITY` and `SMALL OBJECT DRAW DISTANCE` in the **SETTINGS** menu to lower settings.
+
+---
+
+## 3. Initial Setup (Permissions, Folder Creation, Path Config)
 
 ### Step 1: Grant Storage Permission
 1. When you launch the app for the first time, Android's permission dialog/settings screen will automatically appear.
@@ -216,7 +252,7 @@ Using a file manager app on your phone (such as Files) or via USB connection to 
 
 ---
 
-## 3. Options & Settings (SETTINGS)
+## 4. Options & Settings (SETTINGS)
 
 In **"SETTINGS"** on the main menu, you can configure paths as well as performance and visual options:
 
@@ -235,7 +271,7 @@ In **"SETTINGS"** on the main menu, you can configure paths as well as performan
 
 ---
 
-## 4. Car Selection, Skins & Driving Tuning
+## 5. Car Selection, Skins & Driving Tuning
 
 1. Tap **"CAR"** on the main menu to choose your vehicle.
 2. **Skin Selection**: Switch liveries, colors, and visual variants.
@@ -251,14 +287,14 @@ In **"SETTINGS"** on the main menu, you can configure paths as well as performan
 
 ---
 
-## 5. Track & Layout Selection
+## 6. Track & Layout Selection
 1. Tap **"TRACK"** on the main menu.
 2. Choose a track from your installed MOD collection.
 3. If a track contains multiple layouts (drift layout, reverse, short circuit, etc.), you can select your preferred layout.
 
 ---
 
-## 6. Driving Controls & Universal Operations
+## 7. Driving Controls & Universal Operations
 
 These controls apply to both Single Player and Online Multiplayer:
 
@@ -281,13 +317,13 @@ These controls apply to both Single Player and Online Multiplayer:
 
 ---
 
-## 7. Single Player (Free Drive)
+## 8. Single Player (Free Drive)
 - Select your car and track, then tap **"DRIVE"** to enter the track immediately.
 - Practice drifting, test grip lines, or learn tracks freely in solo mode.
 
 ---
 
-## 8. Online Multiplayer
+## 9. Online Multiplayer
 Connect to unofficial Assetto Corsa servers (**acServer / AssettoServer**) and drive with other players.
 
 1. **Preparation**: Install the exact car and track MODs specified by the server with identical folder names.
@@ -307,7 +343,7 @@ Connect to unofficial Assetto Corsa servers (**acServer / AssettoServer**) and d
 
 ---
 
-## 9. Replay System
+## 10. Replay System
 Record, review, and preserve your driving sessions.
 
 - **Playback**:  
@@ -319,7 +355,7 @@ Record, review, and preserve your driving sessions.
 
 ---
 
-## 10. Notice & Disclaimer
+## 11. Notice & Disclaimer
 
 - ※ This application does not contain any copyrighted car models, track meshes, textures, sounds, or commercial game data.
 - ※ This application dynamically loads and runs user-provided MOD files located on device storage.
