@@ -14,12 +14,7 @@
 
 ### Gameplay Video
 
-<video src="Docs/Videos/PocketCorsaPV.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
-
-<br/>
-<sub>🎬 <em>Watch in Full HD on [YouTube](https://www.youtube.com/watch?v=EA9pSfgaaV4)</em></sub>
+[![Play Video](https://img.youtube.com/vi/EA9pSfgaaV4/0.jpg)](https://www.youtube.com/watch?v=EA9pSfgaaV4)
 
 </div>
 

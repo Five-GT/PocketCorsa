@@ -14,12 +14,7 @@
 
 ### 紹介動画 (PV)
 
-<video src="Docs/Videos/PocketCorsaPV.mp4" controls="controls" style="max-width: 100%;">
-  お使いのブラウザは動画タグに対応していません。
-</video>
-
-<br/>
-<sub>🎬 <em>高画質版は [YouTube](https://www.youtube.com/watch?v=EA9pSfgaaV4) でもご覧いただけます</em></sub>
+[![動画を再生](https://img.youtube.com/vi/EA9pSfgaaV4/0.jpg)](https://www.youtube.com/watch?v=EA9pSfgaaV4)
 
 </div>
 
