@@ -10,7 +10,11 @@
 
 ---
 
-[![POCKET CORSA Gameplay Video](https://img.youtube.com/vi/EA9pSfgaaV4/hqdefault.jpg)](https://www.youtube.com/watch?v=EA9pSfgaaV4)
+<a href="https://www.youtube.com/watch?v=EA9pSfgaaV4" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.youtube.com/vi/EA9pSfgaaV4/0.jpg" alt="Play Assetto Corsa MODs on Android! POCKET CORSA" width="560"/>
+</a>
+
+<br/>
 
 # POCKET CORSA Quick Start Guide
 
