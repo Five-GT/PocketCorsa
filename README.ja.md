@@ -12,11 +12,14 @@
 
 <div align="center">
 
-### 紹介動画 (YouTube)
+### 紹介動画 (PV)
 
-<a href="https://www.youtube.com/watch?v=EA9pSfgaaV4" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.youtube.com/vi/EA9pSfgaaV4/0.jpg" alt="【まもなく公開】アセットコルサのMODで遊べるAndroidアプリ「POCKET CORSA」【無料】" width="560"/>
-</a>
+<video src="Docs/Videos/PocketCorsaPV.mp4" controls="controls" style="max-width: 100%;">
+  お使いのブラウザは動画タグに対応していません。
+</video>
+
+<br/>
+<sub>🎬 <em>高画質版は [YouTube](https://www.youtube.com/watch?v=EA9pSfgaaV4) でもご覧いただけます</em></sub>
 
 </div>
 

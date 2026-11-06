@@ -12,11 +12,14 @@
 
 <div align="center">
 
-### Gameplay Video (YouTube)
+### Gameplay Video
 
-<a href="https://www.youtube.com/watch?v=EA9pSfgaaV4" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.youtube.com/vi/EA9pSfgaaV4/0.jpg" alt="Play Assetto Corsa MODs on Android! POCKET CORSA" width="560"/>
-</a>
+<video src="Docs/Videos/PocketCorsaPV.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
+<br/>
+<sub>🎬 <em>Watch in Full HD on [YouTube](https://www.youtube.com/watch?v=EA9pSfgaaV4)</em></sub>
 
 </div>
 
