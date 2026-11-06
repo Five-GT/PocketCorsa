@@ -6,6 +6,11 @@
 
 **English** | [日本語 (Japanese)](README.ja.md)
 
+<br/><br/>
+
+[![Watch the Gameplay Video](https://img.youtube.com/vi/EA9pSfgaaV4/hqdefault.jpg)](https://www.youtube.com/watch?v=EA9pSfgaaV4)  
+*🎬 Watch Gameplay Video on YouTube*
+
 </div>
 
 ---
