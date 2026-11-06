@@ -10,16 +10,6 @@
 
 ---
 
-<div align="center">
-
-### 紹介動画 (PV)
-
-[![動画を再生](https://img.youtube.com/vi/EA9pSfgaaV4/0.jpg)](https://www.youtube.com/watch?v=EA9pSfgaaV4)
-
-</div>
-
-<br/>
-
 # POCKET CORSA クイックスタートガイド
 
 Assetto Corsa（アセットコルサ）のMODをスマホ（Android）で走らせるための基本操作ガイドです。

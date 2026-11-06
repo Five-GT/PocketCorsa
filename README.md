@@ -10,16 +10,6 @@
 
 ---
 
-<div align="center">
-
-### Gameplay Video
-
-[![Play Video](https://img.youtube.com/vi/EA9pSfgaaV4/0.jpg)](https://www.youtube.com/watch?v=EA9pSfgaaV4)
-
-</div>
-
-<br/>
-
 # POCKET CORSA Quick Start Guide
 
 This is a basic user guide for running Assetto Corsa MODs natively on Android mobile devices with **POCKET CORSA**.
