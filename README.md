@@ -184,7 +184,7 @@ Record, review, and preserve your driving sessions.
 ---
 
 ### Credits
-- **Planning & Development**: ファイヴ ( @Five-GT )
-- **Technical Assistance**: Noel “Excël” Minamino ( @NoelMinamino )
+- **Planning & Development**: ファイヴ ( [@Five-GT](https://github.com/Five-GT) )
+- **Technical Assistance**: Noel “Excël” Minamino ( [@NoelMinamino](https://github.com/NoelMinamino) )
 
 Copyright 2026 ファイヴ

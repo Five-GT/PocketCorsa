@@ -184,7 +184,7 @@ Assetto Corsaのマルチサーバー（acServer / AssettoServer）に参加し�
 ---
 
 ### クレジット
-- **企画 / 開発**: ファイヴ ( @Five-GT )
-- **技術協力**: Noel “Excël” Minamino ( @NoelMinamino )
+- **企画 / 開発**: ファイヴ ( [@Five-GT](https://github.com/Five-GT) )
+- **技術協力**: Noel “Excël” Minamino ( [@NoelMinamino](https://github.com/NoelMinamino) )
 
 Copyright 2026 ファイヴ
