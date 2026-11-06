@@ -10,9 +10,15 @@
 
 ---
 
+<div align="center">
+
+### 紹介動画 (YouTube)
+
 <a href="https://www.youtube.com/watch?v=EA9pSfgaaV4" target="_blank" rel="noopener noreferrer">
   <img src="https://img.youtube.com/vi/EA9pSfgaaV4/0.jpg" alt="【まもなく公開】アセットコルサのMODで遊べるAndroidアプリ「POCKET CORSA」【無料】" width="560"/>
 </a>
+
+</div>
 
 <br/>
 
