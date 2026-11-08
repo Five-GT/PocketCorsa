@@ -180,6 +180,7 @@ Record, review, and preserve your driving sessions.
 
 - ※ This application does not contain any copyrighted car models, track meshes, textures, sounds, or commercial game data.
 - ※ This application dynamically loads and runs user-provided MOD files located on device storage.
+- ※ CSP-encrypted or protected MODs cannot be displayed or loaded properly. There are no plans to support them in the future.
 - ※ This application is a completely original, standalone project built from scratch using Unity (with zero code derived from Assetto Corsa or any other applications). Therefore, vehicle physics and behavior naturally differ from official Assetto Corsa.
 - ※ This is an unofficial, non-profit community project created by individuals and is not affiliated with, endorsed by, or associated with Kunos Simulazioni, Digital Bros, or 505 Games.
 - ※ All MODs are created for Assetto Corsa by third-party creators. The authors of this app and individual MOD creators have no affiliation with each other. Please do not contact MOD authors regarding this application.
