@@ -19,10 +19,11 @@ Assetto Corsa（アセットコルサ）のMODをスマホ（Android）で走ら
 
 ---
 
-## 1. アプリのダウンロード（準備中）
+## 1. アプリのダウンロード（最新版）
 
-現在、一般公開に向けて準備中です（Coming Soon）。  
-※公開準備が整い次第、[Releases](https://github.com/Five-GT/PocketCorsa/releases) にてAPKファイルの配布を開始予定です。
+最新版のAPKパッケージは、GitHubの [Releases](https://github.com/Five-GT/PocketCorsa/releases) ページ、または以下のリンクから直接ダウンロードできます。
+
+- 📥 **[PocketCorsa_v0.1.118.apk をダウンロード](https://github.com/Five-GT/PocketCorsa/releases/download/v0.1.118/PocketCorsa_v0.1.118.apk)** (Version 0.1.118 / 約27MB)
 
 ---
 
