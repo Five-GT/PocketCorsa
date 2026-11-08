@@ -40,7 +40,7 @@ Since Assetto Corsa MODs are high-fidelity assets originally created for PC, a c
 > **⚠️ Important Notice on Performance & Device Environment**  
 > - Because PC-grade MODs are not optimized for mobile hardware, **even on devices with 1M+ Antutu scores, high-poly cars or large complex tracks may cause significant performance drops**.  
 > - Depending on your individual device environment (background apps, memory availability, thermal throttling, etc.), **the app may not operate smoothly or may close unexpectedly even if system requirements are met**.  
-> - If you experience stuttering or frame drops, adjust `MOD TEXTURE QUALITY` and `SMALL OBJECT DRAW DISTANCE` in the **SETTINGS** menu to lower settings.
+> - If you experience stuttering or frame drops, adjust `MOD TEXTURE QUALITY` and `SMALL OBJECT DRAW DISTANCE` in the **OPTIONS** menu to lower settings.
 
 ---
 
@@ -63,15 +63,15 @@ Using a file manager app on your phone (such as Files) or via USB connection to 
 > Always extract them first, and place the extracted folder (the directory containing `.kn5`, `ui/`, `data.acd`, etc.) into each respective folder.
 
 ### Step 3: Configure Paths in App Settings
-1. Open **"SETTINGS"** from the top menu.
+1. Open **"OPTIONS"** from the top menu.
 2. Select and browse to your created **Cars**, **Tracks**, and **Replays** folders respectively.
-3. Once paths are set, the app will scan and load your MODs.
+3. Once paths are set, tap **"SAVE & BACK"** to save and load your MODs.
 
 ---
 
-## 4. Options & Settings (SETTINGS)
+## 4. Options & Settings (OPTIONS)
 
-In **"SETTINGS"** on the main menu, you can configure paths as well as performance and visual options:
+In **"OPTIONS"** on the main menu, you can configure paths as well as performance and visual options (tap **"SAVE & BACK"** to save changes):
 
 - **MOD Path Settings**:
   - `CAR / TRACK / REPLAY PATH`: Change paths for cars, tracks, and replays
@@ -90,11 +90,11 @@ In **"SETTINGS"** on the main menu, you can configure paths as well as performan
 
 ## 5. Car Selection, Skins & Driving Tuning
 
-1. Tap **"CAR"** on the main menu to choose your vehicle.
-2. **Skin Selection**: Switch liveries, colors, and visual variants.
+1. Tap **"CAR SELECT"** on the main menu to choose your vehicle, then tap **"SELECT CAR"** to confirm.
+2. **Skin & Tyre Selection**: Switch liveries, colors, and tyre compounds using the left/right arrow buttons.
 3. **TUNING (Physics & Handling Adjustments)**:  
    Fine-tune your vehicle's physics to match your driving style:
-   - **ACCEL MODEL**: Toggle between **"REAL"** (closely reflects the original MOD characteristics) and **"ARCADE"** (exhilarating and accessible handling)
+   - **ACCEL MODEL**: Toggle between **"REAL"** (closely reflects original MOD characteristics) and **"ARCADE"** (exhilarating and accessible handling)
    - **POWER**: Scale acceleration and engine output (30% to 400%)
    - **AIR DRAG**: Adjust aerodynamic drag affecting top speed and acceleration (25% to 200%)
    - **LATERAL GRIP**: Tune tyre side-grip and drift slide characteristics (50% to 150%)
@@ -105,9 +105,10 @@ In **"SETTINGS"** on the main menu, you can configure paths as well as performan
 ---
 
 ## 6. Track & Layout Selection
-1. Tap **"TRACK"** on the main menu.
-2. Choose a track from your installed MOD collection.
-3. If a track contains multiple layouts (drift layout, reverse, short circuit, etc.), you can select your preferred layout.
+1. Tap **"TRACK SELECT"** on the main menu.
+2. Choose a track from your installed MOD collection, then tap **"SELECT TRACK"** to confirm.
+3. If a track contains multiple layouts (drift layout, reverse, short circuit, etc.), switch them using the **"[LAYOUT]"** arrows.
+4. **Environment Settings**: Configure **TIME OF DAY** and wrong-way driving prevention (**WRONG WAY**) on this screen.
 
 ---
 
@@ -118,24 +119,27 @@ These controls apply to both Single Player and Online Multiplayer:
 - **Steering Wheel**:  
   Swipe the steering wheel on the left side of the screen (up to 900° rotation with smooth counter-steer assist).
 - **Multi-Slider Pedal (Throttle, Brake, Handbrake)**:
-  - **Slide Up**: Throttle (Acceleration)
-  - **Swipe Left**: Foot Brake (Deceleration / Stop)
-  - **Swipe Right**: Handbrake (E-brake / Drift initiation)
-  - **Slide Down**: Reverse gear
+  - **Slide Up (GAS ▲)**: Throttle (Acceleration)
+  - **Swipe Left (◀ BRAKE)**: Foot Brake (Deceleration / Stop)
+  - **Swipe Right (DRIFT ▶)**: Handbrake (E-brake / Drift initiation)
+  - **Slide Down (▼ REVERSE)**: Reverse gear
 - **Transmission**:  
-  Toggle between **AT (Automatic)** and **MT (Manual)**.
+  Toggle between **"AT (AUTO)"** and **"MT (MANUAL)"** (In MT, shift using **"◀ DOWN"** and **"UP ▶"**).
 - **Lights & Horn**:
   - **LIGHTS**: Turn headlights and taillights ON / OFF
   - **< TURN / TURN >**: Left / Right turn indicators
   - **HAZARD**: Hazard warning flashers
   - **HORN**: Press and hold the dedicated HORN button to sound the horn
 - **Camera View**:  
-  Switch between Chase Cam, Driver Cockpit View (NeckFX-style dynamic G-force head movement), and Free Orbit Camera.
+  Tap the **"VIEW"** button at the top to switch between Chase Cam, Driver Cockpit View (NeckFX-style dynamic G-force head movement), and Free Orbit Camera.
+- **In-Game Helpers**:
+  - **RESET CAR**: Reposition your car back onto the track
+  - **MENU**: Pause driving session and display exit dialog
 
 ---
 
 ## 8. Single Player (Free Drive)
-- Select your car and track, then tap **"DRIVE"** to enter the track immediately.
+- Select your car and track from the main menu, then tap **"START"** at the top to enter the track immediately.
 - Practice drifting, test grip lines, or learn tracks freely in solo mode.
 
 ---
