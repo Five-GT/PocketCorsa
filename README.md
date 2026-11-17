@@ -84,8 +84,11 @@ In **"OPTIONS"** on the main menu, you can configure paths as well as performanc
   - `SMALL OBJECT DRAW DISTANCE`: Adjust rendering distance of small props (poles, signs, fences)
   - `MOD TEXTURE QUALITY`: Switch texture resolution and quality
   - `STREET LIGHTS`: Number of active real-time street lights (set to OFF for better performance)
-- **System Settings**:
-  - `VIBRATION`: Toggle haptic feedback on collisions and curb strikes ON / OFF
+- **Handling, Controls & System Settings**:
+  - `DRIFT BALANCE`: 10-level drift handling balance (`1`: Understeer / outside trace – `5`: `STD` default – `10`: Oversteer / quick snap, shared across landscape and portrait)
+  - `VIBRATION`: Toggle haptic feedback on collisions and curb strikes ON / OFF (routes to gamepad rumble when a controller is connected)
+  - `CONTROLLER`: Enable/disable gamepad support (Xbox / XInput layout), customize button bindings, or `RESET DEFAULTS`
+  *(※When tapping `SAVE & BACK`, unnecessary MOD rescans are skipped if Car/Track paths were not changed)*
 
 ---
 
@@ -115,8 +118,9 @@ In **"OPTIONS"** on the main menu, you can configure paths as well as performanc
 
 ## 7. Driving Controls & Universal Operations
 
-These controls apply to both Single Player and Online Multiplayer:
+These controls apply to both Single Player and Online Multiplayer. The UI automatically switches between **Landscape** and **Portrait** modes based on your device orientation, and also supports **Gamepad / Controller** input.
 
+### ① Landscape Touch Controls
 - **Steering Wheel**:  
   Swipe the steering wheel on the left side of the screen (up to 900° rotation with smooth counter-steer assist).
 - **Multi-Slider Pedal (Throttle, Brake, Handbrake)**:
@@ -131,11 +135,39 @@ These controls apply to both Single Player and Online Multiplayer:
   - **< TURN / TURN >**: Left / Right turn indicators
   - **HAZARD**: Hazard warning flashers
   - **HORN**: Press and hold the dedicated HORN button to sound the horn
-- **Camera View**:  
-  Tap the **"VIEW"** button at the top to switch between Chase Cam, Driver Cockpit View (NeckFX-style dynamic G-force head movement), and Free Orbit Camera.
-- **In-Game Helpers**:
-  - **RESET CAR**: Reposition your car back onto the track
+- **Camera View & HUD Helpers**:
+  - **VIEW**: Switch between Chase Cam, Driver Cockpit View (NeckFX-style dynamic head movement), and Free Orbit Camera
+  - **FPS**: Toggle the real-time FPS overlay ON / OFF
+  - **RESET**: Reposition your car back onto the track
   - **MENU**: Pause driving session and display exit dialog
+- **HUD Layout Customization**:
+  - Tap **MOVE UI** to enter edit mode and freely drag HUD buttons (including `MAP` and `MIRROR`) to your preferred positions. Tap **DONE** to save, or **RESET UI** to restore defaults.
+
+### ② Portrait Touch Controls
+Rotating your device vertically activates the Portrait UI with a dedicated virtual pad designed for one-handed play:
+- **Virtual Pad**:
+  - **Left / Right Slide**: Steering
+  - **Up / Down Slide**: Throttle / Brake & Reverse
+- **Drive Mode Toggle**:
+  - **GYMKHANA**: Flick sideways or upward sharply while steering to initiate and hold a drift
+  - **DRIFT**: Automatically engages drift based on steering angle
+  - **GRIP**: Pure grip driving without drift assist
+- **Pad Position & Size Customization**:
+  - Tap **MOVE PAD** to drag the pad and buttons, or drag the bottom-right corner of the pad to resize it. Tap **LOCK PAD [SAVE]** to save, or **RESET PAD** to restore defaults.
+
+### ③ Gamepad / Controller Controls
+Supports Bluetooth / USB controllers (Xbox / XInput layout) for driving, menus, replay, and drone camera controls:
+- **Default Bindings (Customizable in `OPTIONS` → `CONTROLLER`)**:
+  - **Left Stick**: Steering
+  - **RT / LT**: Throttle / Brake & Reverse
+  - **B**: Drift (Handbrake)
+  - **RB / LB**: Shift Up / Shift Down
+  - **Y / View / Menu**: Change View / Reset Car / Pause Menu
+- **Menu Navigation**:
+  - **D-Pad / Left Stick**: Move cursor
+  - **A / B**: Confirm / Cancel (Back)
+  - **X / Y**: Jump between sections or lists, **LB / RB**: Cycle left/right options
+- *※ On-screen touch driving controls are automatically hidden while driving with a controller.*
 
 ---
 
