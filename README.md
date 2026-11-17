@@ -23,7 +23,7 @@ This is a basic user guide for running Assetto Corsa MODs natively on Android mo
 
 You can download the latest APK package directly from the GitHub [Releases](https://github.com/Five-GT/PocketCorsa/releases) page or via the link below:
 
-- 📥 **[Download PocketCorsa_v0.1.118.apk](https://github.com/Five-GT/PocketCorsa/releases/download/v0.1.118/PocketCorsa_v0.1.118.apk)** (Version 0.1.118 / ~27MB)
+- 📥 **[Download PocketCorsa_v0.2.24.apk](https://github.com/Five-GT/PocketCorsa/releases/download/v0.2.24/PocketCorsa_v0.2.24.apk)** (Version 0.2.24 / ~29MB)
 
 ---
 
